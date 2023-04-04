@@ -1,6 +1,6 @@
 body {
     background: black;
-    font-family: 'Nunito', sans-serif;
+    font-family: 'Comfortaa', sans-serif;
 }
 
 .blurb h2 {
@@ -19,6 +19,11 @@ body {
 .content {
     margin-top: 100px;
 
+}
+
+#mainNavbar a {
+    color: white;
+    text-decoration: none;
 }
 
 #mainNavbar {
@@ -41,12 +46,16 @@ body {
 }
 
 #headingGroup span {
-    color: red;
+    color: #001840;
 }
 
 #headingGroup h1 {
     font-weight: 100;
     font-size: 4rem;
+}
+
+#headline {
+    text-decoration: none;
 }
 
 .navbar.scrolled {
